@@ -1,0 +1,9 @@
+body{
+    width: 100%;
+}
+
+.board{
+   text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
